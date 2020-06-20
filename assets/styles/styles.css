@@ -1,0 +1,29 @@
+nav img {
+  width: 50%;
+}
+
+.slider {
+  width: 100vh;
+}
+.carousel1 {
+  background-size: cover;
+  background-position: ;
+  height: calc(100vh - 80px);
+}
+.carousel1 .boton1 {
+  width: 50%;
+}
+
+.slide1_left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.slide1_left p {
+  width: 60%;
+}
+
+.slide1_right img {
+}
